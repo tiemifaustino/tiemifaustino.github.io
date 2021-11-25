@@ -1,18 +1,46 @@
-.nome{
+.nome {
     font-family: 'Satisfy', cursive;
     font-size: 60px;
-    font-weight: 500;
+    font-weight: 600px;
+    color: #3D405B;
 }
 
-.paragrafos{
+.paragrafos {
     font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
 }
 
-.titulos{
+.titulos {
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    font-weight: 100px;
+    color: #E07A5F;
+}
+
+.listas{
     font-family: 'Satisfy', cursive;
     font-size: 25px;
 }
 
+.bold {
+    color: #3D405B;
+    font-weight: bolder;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.links{
+    text-decoration: none;
+    color: #3D405B;
+}
+
 body{
-    background-color: #EDF6F9;
+    background-color: #F4F1DE;
+}
+
+footer{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
 }
